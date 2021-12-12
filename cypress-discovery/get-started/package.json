@@ -1,0 +1,17 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "primeira atividade cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "keyth"
+  ],
+  "author": "keyth",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
